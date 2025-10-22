@@ -1,6 +1,8 @@
 # Disease-Detection-in-Chest-X-Rays-Using-CNN-with-Squeeze-and-Excitation-SE-Blocks
 CNN model enhanced with Squeeze-and-Excitation blocks for disease detection in chest X-rays. Trained on the NIH dataset using PyTorch with data augmentation and 5-fold cross-validation. Achieved 66% test accuracy, improving feature focus and diagnostic reliability.
 
+
+------------------------
 **Description:**
 This project applies deep learning to medical imaging, focusing on early disease detection in chest X-rays through a Convolutional Neural Network (CNN) enhanced with a Squeeze-and-Excitation (SE) block. The SE mechanism allows the network to dynamically emphasize the most relevant image features, improving diagnostic performance and interpretability.
 
