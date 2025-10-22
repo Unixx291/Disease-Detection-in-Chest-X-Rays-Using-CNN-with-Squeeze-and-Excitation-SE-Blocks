@@ -33,5 +33,3 @@ Further improvements could include larger datasets, GPU-based training, dropout 
 
 **Key Skills & Tools:**
 Python, PyTorch, Deep Learning, Convolutional Neural Networks, Medical Image Analysis, Data Augmentation, Cross-Validation, Model Evaluation, Scientific Reporting.
-
-This repository demonstrates practical experience in AI for healthcare—covering data preprocessing, model design, experimental evaluation, and result interpretation—making it ideal for employers seeking candidates skilled in applied machine learning and computer vision.
